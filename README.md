@@ -1,4 +1,4 @@
-# yunus-temurlenk-Augmented-Reality-Projects-with-Aruco-Markers
+# Augmented-Reality-Projects-with-Aruco-Markers
 Contains an augmented reality project which includes Aruco markers.
 
 # [Youtube Link](https://www.youtube.com/watch?v=J7oUbJPM8WE)
